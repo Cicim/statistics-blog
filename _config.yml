@@ -88,3 +88,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+url: Cicim.github.io
+baseurl: /statistics-blog
